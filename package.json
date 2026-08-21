@@ -1,6 +1,8 @@
 {
-  "name": "learn-angular-from-scratch",
-  "version": "0.0.0",
+  "name": "cs470-full-stack-development-ii",
+  "version": "1.0.0",
+  "description": "SNHU CS-470 Full Stack Development II Angular application and cloud deployment portfolio",
+  "private": true,
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +11,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "~7.2.0",
     "@angular/cdk": "~7.3.7",
