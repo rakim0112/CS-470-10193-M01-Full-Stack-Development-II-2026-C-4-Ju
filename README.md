@@ -2,7 +2,7 @@
 
 ## Cloud-Based Full-Stack Application Portfolio
 
-**Student:** Rakim Spriggs (RAK47)  
+**Student:** Rakim Spriggs  
 **Course:** CS-470 Full Stack Development II  
 **Term:** 2026 C-4  
 **Program:** B.S. Computer Science, Southern New Hampshire University
